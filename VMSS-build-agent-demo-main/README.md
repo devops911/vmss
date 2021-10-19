@@ -1,1 +1,0 @@
-# VMSS-build-agent-demo
